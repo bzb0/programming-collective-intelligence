@@ -3,3 +3,9 @@ __pycache__/
 
 # PyCharm files
 .idea/
+
+# Output files from chapter 3
+chapter03/blogclust.jpg
+chapter03/clusters.jpg
+chapter03/wordclust.jpg
+chapter03/blogdata_out.txt
