@@ -13,3 +13,8 @@ chapter03/blogdata_out.txt
 # Output files from chapter 4
 chapter04/nn.db
 chapter04/searchindex.db
+
+# Output files from chapter 7
+chapter07/treeview.jpg
+chapter07/housetree.jpg
+chapter07/*.pyc
