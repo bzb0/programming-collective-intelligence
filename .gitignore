@@ -18,3 +18,9 @@ chapter04/searchindex.db
 chapter07/treeview.jpg
 chapter07/housetree.jpg
 chapter07/*.pyc
+
+# Output files from chapter 10
+chapter10/articles.txt
+chapter10/features.txt
+chapter10/news.jpg
+chapter10/newtest.db
